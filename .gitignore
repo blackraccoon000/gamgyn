@@ -1,0 +1,41 @@
+# ビルド成果物
+target/
+build/
+out/
+
+# 依存関係キャッシュ
+.m2/
+.gradle/
+
+# IDE設定
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# OSやエディタの一時ファイル
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ログファイル
+*.log
+
+# 環境設定
+*.env
+application.properties
+application.yml
+
+# テスト結果
+test-output/
+
+# クラスファイル
+*.class
+
+# JAR/WAR/EARファイル
+*.jar
+*.war
+*.ear
